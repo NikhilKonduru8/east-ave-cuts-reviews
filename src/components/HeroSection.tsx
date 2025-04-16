@@ -20,13 +20,8 @@ const HeroSection = () => {
             Our skilled barbers are dedicated to helping you look your best.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="tel:+19254567890">
-              <Button size="lg" className="bg-barber-red hover:bg-barber-red/90 text-white">
-                Book Now
-              </Button>
-            </a>
             <Link to="/services">
-              <Button size="lg" variant="outline" className="border-barber-red text-barber-red hover:bg-barber-red/10">
+              <Button size="lg" className="bg-barber-red hover:bg-barber-red/90 text-white">
                 Our Services
               </Button>
             </Link>

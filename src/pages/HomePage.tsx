@@ -177,11 +177,11 @@ const HomePage = () => {
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Experience the best haircuts in Livermore. Walk-ins welcome!
           </p>
-          <a href="tel:+19254567890">
+          <Link to="/contact">
             <Button size="lg" className="bg-barber-red hover:bg-barber-red/90 text-white">
-              Call Now: (925) 456-7890
+              Contact Us
             </Button>
-          </a>
+          </Link>
         </div>
       </section>
     </div>

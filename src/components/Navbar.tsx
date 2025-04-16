@@ -26,9 +26,6 @@ const Navbar = () => {
             <Link to="/services" className="text-barber-dark hover:text-barber-red font-medium transition duration-300">Services</Link>
             <Link to="/reviews" className="text-barber-dark hover:text-barber-red font-medium transition duration-300">Reviews</Link>
             <Link to="/contact" className="text-barber-dark hover:text-barber-red font-medium transition duration-300">Contact</Link>
-            <a href="tel:+19254567890">
-              <Button className="bg-barber-red hover:bg-barber-red/90 text-white">Book Now</Button>
-            </a>
           </div>
 
           {/* Mobile menu button */}
@@ -54,9 +51,6 @@ const Navbar = () => {
             <Link to="/contact" className="block text-barber-dark hover:text-barber-red font-medium py-2 transition duration-300" onClick={toggleMenu}>
               Contact
             </Link>
-            <a href="tel:+19254567890" className="block" onClick={toggleMenu}>
-              <Button className="w-full bg-barber-red hover:bg-barber-red/90 text-white">Book Now</Button>
-            </a>
           </div>
         )}
       </div>
