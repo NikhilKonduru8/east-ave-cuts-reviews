@@ -1,4 +1,3 @@
-
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
 import { MapPin, Scissors, Clock, Star, Users } from 'lucide-react';
@@ -60,7 +59,7 @@ const HomePage = () => {
             <div className="flex flex-col items-center">
               <MapPin className="h-6 w-6 text-barber-gold mb-2" />
               <h3 className="font-bold text-lg">Location</h3>
-              <p>1234 East Avenue, Livermore, CA</p>
+              <p>862 Hillcrest Ave, Livermore, CA</p>
             </div>
             <div className="flex flex-col items-center">
               <Clock className="h-6 w-6 text-barber-gold mb-2" />

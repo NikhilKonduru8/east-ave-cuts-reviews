@@ -1,4 +1,3 @@
-
 import { Scissors, MapPin, Phone, Clock, Facebook, Instagram } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
@@ -30,11 +29,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start gap-2">
                 <MapPin className="h-5 w-5 text-barber-gold mt-0.5" />
-                <p>1234 East Avenue, Livermore, CA 94550</p>
+                <p>862 Hillcrest Ave, Livermore, CA 94550</p>
               </div>
               <div className="flex items-start gap-2">
                 <Phone className="h-5 w-5 text-barber-gold mt-0.5" />
-                <p>(925) 456-7890</p>
+                <p>(925) 443-0377</p>
               </div>
               <div className="flex items-start gap-2">
                 <Clock className="h-5 w-5 text-barber-gold mt-0.5" />

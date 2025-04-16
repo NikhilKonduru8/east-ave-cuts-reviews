@@ -1,4 +1,3 @@
-
 import { MapPin, Phone, Clock, Mail, Scissors } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
@@ -33,9 +32,9 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-bold text-lg mb-1">Address</h3>
-                    <p className="text-gray-700">1234 East Avenue, Livermore, CA 94550</p>
+                    <p className="text-gray-700">862 Hillcrest Ave, Livermore, CA 94550</p>
                     <a 
-                      href="https://maps.google.com/?q=East+Avenue+Barber+Shop+Livermore+CA" 
+                      href="https://maps.google.com/?q=862+Hillcrest+Ave,+Livermore,+CA+94550" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-barber-red hover:underline mt-1 inline-block"
@@ -51,9 +50,9 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-bold text-lg mb-1">Phone</h3>
-                    <p className="text-gray-700">(925) 456-7890</p>
+                    <p className="text-gray-700">(925) 443-0377</p>
                     <a 
-                      href="tel:+19254567890" 
+                      href="tel:+19254430377" 
                       className="text-barber-red hover:underline mt-1 inline-block"
                     >
                       Call Now

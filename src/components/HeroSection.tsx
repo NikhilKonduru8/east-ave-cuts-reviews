@@ -1,4 +1,3 @@
-
 import { Scissors } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
@@ -13,7 +12,7 @@ const HeroSection = () => {
             <h1 className="text-3xl md:text-5xl font-bold">East Avenue Barber Shop</h1>
           </div>
           <p className="text-xl md:text-2xl font-light mb-8 text-gray-700">
-            Quality haircuts and grooming services in Livermore, CA.
+            Quality haircuts and grooming services at 862 Hillcrest Ave, Livermore, CA.
           </p>
           <p className="text-lg mb-8 text-gray-600 max-w-2xl">
             Welcome to East Avenue Barber Shop, where we provide exceptional haircuts and grooming services. 
