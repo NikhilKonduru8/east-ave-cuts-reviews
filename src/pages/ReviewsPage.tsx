@@ -12,13 +12,6 @@ const ReviewsPage = () => {
       reviewText: "We love Bertha. All the ladies are wonderful. Bertha cuts my son's hair and nails it each time. We are so grateful to have East Ave. Barbers in our neighborhood. Thank you ladies"
     },
     {
-      name: "R T.",
-      location: "Livermore, CA",
-      date: "Dec 23, 2024",
-      rating: 1,
-      reviewText: "Place doesnt have enough barbers ...always a list thats full up for the day. Dont waste your time going there. I hear they give bad haircuts anyway"
-    },
-    {
       name: "Jeff F.",
       location: "San Ramon, CA",
       date: "May 28, 2024",
@@ -31,27 +24,6 @@ const ReviewsPage = () => {
       date: "Jun 4, 2022",
       rating: 5,
       reviewText: "Love these ladies. So patient and precise with their work. Very friendly and an all around good place with good people"
-    },
-    {
-      name: "Steven M.",
-      location: "Livermore, CA",
-      date: "Apr 5, 2022",
-      rating: 3,
-      reviewText: "They give excellent haircuts but with no appointments and very long wait times I will not be returning. Time is just too valuable."
-    },
-    {
-      name: "You Would Like To Know S.",
-      location: "East Bay, CA",
-      date: "Mar 15, 2022",
-      rating: 5,
-      reviewText: "This place is amazing!!! I have taken my toddler to so many places in Livermore and Pleasanton. Everyone has always butchered my sons hair which made me so frustrated. I took him to Bertha here and she was amazing!!! She took so much time to make sure it was perfect. Honestly, it was the best haircut he has ever received. Thank you so much!"
-    },
-    {
-      name: "JR M.",
-      location: "Fremont, CA",
-      date: "Jan 19, 2022",
-      rating: 2,
-      reviewText: "They seemed nice but I waited for almost 2 hours and didn't even get acknowledged, no sense of urgency unfortunately and even more crappy is when people share life stories of themself selfishly without realizing it slows them down even more... I think the people are great just not very services oriented... wish I had a better experience"
     },
     {
       name: "Joey T.",
